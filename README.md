@@ -16,7 +16,7 @@ cp .env.example .env
 ## Usage
 
 ```bash
-bun run index.js \
+node index.js \
   --rpc https://rpc.linea.build \
   --token 0xTOKEN_ADDRESS \
   --to 0xDESTINATION_WALLET \
